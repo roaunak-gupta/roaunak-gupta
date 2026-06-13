@@ -1,18 +1,18 @@
 # Hi, I'm Roaunak Gupta 👋
 
-### Computer Science Engineering Student | Electronics Diploma Graduate | Aspiring AI & Software Developer
+### Computer Science Engineering Student | Diploma in Electronics Engineering | Aspiring AI & Software Developer
 
-I am a B.Tech Computer Science & Engineering student with a Diploma in Electronics Engineering and industrial experience in the manufacturing sector. I am passionate about software development, Python programming, Artificial Intelligence, Machine Learning, and emerging technologies.
+I am a B.Tech Computer Science & Engineering student with a Diploma in Electronics Engineering and industrial experience in the battery manufacturing sector. I am passionate about software development, Python programming, Artificial Intelligence, Machine Learning, and emerging technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science & Engineering
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (Final Year) 
 - 🎓 Diploma in Electronics Engineering from Lucknow Polytechnic, Lucknow
 - 💼 Industrial Experience at Lumax Industries and Navitayas India Pvt. Ltd.
 - 🤖 Interested in AI, Machine Learning, Python, IoT, and Software Development
-- 🌱 Currently learning Python, Data Structures, AI & ML
+- 🌱 Currently learning Python, Artifical Intelligence and Machine learing.
 - 🎯 Goal: Become a skilled Software Engineer and AI Professional
 
 ---
@@ -22,13 +22,13 @@ I am a B.Tech Computer Science & Engineering student with a Diploma in Electroni
 ### Programming Languages
 - Python
 - C
-- C++
 - Java (Basic)
 
 ### Web Development
 - HTML
 - CSS
-- JavaScript (Learning)
+- JavaScript
+- React
 
 ### Technologies & Tools
 - Git
@@ -37,12 +37,14 @@ I am a B.Tech Computer Science & Engineering student with a Diploma in Electroni
 - Microsoft Office
 - AI Tools
 - IoT Fundamentals
+- Embedded Systems
 
 ### Areas of Interest
 - Artificial Intelligence
 - Machine Learning
 - Software Development
 - Data Science
+- Embedded Systems
 - Internet of Things (IoT)
 
 ---
@@ -64,7 +66,7 @@ I am a B.Tech Computer Science & Engineering student with a Diploma in Electroni
 Dec 2024 – Present
 
 ### Lumax Industries
-**Trainee Engineer**  
+**Diploma Engineer Trainee (DET)**  
 Aug 2024 – Dec 2024
 
 ---
@@ -73,14 +75,6 @@ Aug 2024 – Dec 2024
 
 - Hands-on Training in AI using IoT
 - Softpro India Computer Technologies (P) Ltd.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
